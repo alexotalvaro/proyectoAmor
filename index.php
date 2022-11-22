@@ -11,7 +11,8 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/html.html to edit this temp
     </head>
     <body>
        <?php 
-        print 'Bienvenido a developer 1';
+        print 'Bienvenido a developer 2';
+        
        ?>
     </body>
 </html>
